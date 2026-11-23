@@ -1,0 +1,8 @@
+Coloca aquí tus capturas de Postman con estos nombres:
+
+01_sin_cache_prueba1.png ... 01_sin_cache_prueba5.png
+02_con_cache_primera_MISS.png
+03_con_cache_hit1.png ... 03_con_cache_hit5.png
+04_antes_de_editar.png
+05_despues_de_editar_MISS_dato_nuevo.png
+06_consola_servidor.png   (opcional pero recomendada)
